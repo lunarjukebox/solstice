@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <h2>A Geode Collection</h2>
+  <h2>Solstice: A Geode Collection</h2>
   <h3>Here are some poems I wrote. :3</h3>
   <p>
     O angels and stars divine,<br>
